@@ -1,0 +1,1 @@
+select * from `cidades` where `nome` like '%antonio%';
